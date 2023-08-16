@@ -1,0 +1,13 @@
+.desktop_nav_container li {
+    @apply mx-4 inline-block font-medium;
+}
+
+.desktop_nav_container .hidden {
+    display: none;
+}
+
+@media(min-width: 1280px) {
+    .desktop_nav_container .hidden {
+        display: inline-block;
+    }
+}

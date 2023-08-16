@@ -1,0 +1,31 @@
+.home_card {
+    border-radius: 16px;
+    background: radial-gradient(50% 50.00% at 50% 50.00%, rgba(217, 235, 205, 0.14) 0%, rgba(217, 235, 205, 0.03) 100%), #11453B;
+    box-shadow: -11px 0px 19px 0px rgba(23, 23, 23, 0.30), 0px 13px 20px 0px rgba(23, 23, 23, 0.20);
+    @apply max-w-[552px] w-full;
+}
+
+
+.card_showcase {
+    background-image: url(/images/cardBg.png);
+    background-repeat: no-repeat;
+    @apply py-12;
+    background-size: cover;
+}
+
+
+@media(min-width: 1280px) {
+
+    .home_card_container>div:nth-of-type(2),
+    .home_card_container>div:nth-of-type(3) {
+        @apply -ml-[16.5em];
+
+    }
+
+    .home_card_container>div:nth-of-type(1):hover,
+    .home_card_container>div:nth-of-type(2):hover {
+        @apply mr-[16.5em];
+        transition: .5s;
+        transform: scale(1.01)
+    }
+}
