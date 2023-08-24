@@ -12,12 +12,12 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
 </div>
  <h1 className="bg-white text-center text-3xl mx-12 lg:mx-24 leading-16 font-semibold text-black lg:text-6xl">Bringing your <span className='text-[#FF7D05]'>visions</span> to Amazing and Beautiful buildings that fit your budget.</h1>
           <div className="grid sm:grid-cols-2 lg:grid-cols-2 gap-6 mx-14 my-14 lg:mx-44 lg:my-24">
-         <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7] lg:mr-12">
+         <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl lg:mr-12">
           <div className="h-52 flex flex-col justify-center items-center bg-blue-600 rounded-t-xl">
            <img src="https://mtcopeland.com/wp-content/uploads/2021/03/8iV1QbnASuegA3RZiGci_etienne-girardet-sgYamIzhAhg-unsplash-1024x576.jpg.webp" alt="" 
            className='h-52 w-[460px] rounded-t-[0.75rem]'/>
           </div>
-          <div className="bg-white flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6 rounded-b-xl">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
@@ -60,12 +60,12 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
           </div>
         </div>
 
-        <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7] lg:mr-12 mt-8">
+        <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl lg:mr-12 mt-8">
           <div className="h-52 flex flex-col justify-center items-center bg-rose-500 rounded-t-xl">
           <img src="https://media.istockphoto.com/id/1345504557/photo/caucasian-hands-counting-dollar-banknotes.webp?b=1&s=170667a&w=0&k=20&c=MJOtDIYq_5yNnQhE479ymwPSi1Fk160vhWuGyHKpwYg=" alt=""
            className='h-52 w-[460px] rounded-t-[0.75rem]' />
           </div>
-          <div className="bg-white flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6 rounded-b-xl">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
@@ -84,12 +84,12 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
           </div>
         </div>
 
-        <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7] mt-8">
+        <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl mt-8">
           <div className="h-52 flex flex-col justify-center items-center bg-amber-500 rounded-t-xl">
            <img src="https://media.istockphoto.com/id/1475261805/photo/office-desk-with-hands-of-for-people-working-together-on-a-joint-business-project-with.webp?b=1&s=170667a&w=0&k=20&c=uittTxMSPwM7zgJlKxyPGwFHsckM_CodS2G0EarCv24=" alt="" 
             className='h-52 w-[460px] rounded-t-[0.75rem]'/>
           </div>
-          <div className="bg-white flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6 rounded-b-xl">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
