@@ -17,7 +17,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
            <img src="https://mtcopeland.com/wp-content/uploads/2021/03/8iV1QbnASuegA3RZiGci_etienne-girardet-sgYamIzhAhg-unsplash-1024x576.jpg.webp" alt="" 
            className='h-52 w-[460px] rounded-t-[0.75rem]'/>
           </div>
-          <div className="flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
@@ -26,7 +26,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
         </text>
       </svg>
 
-            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
+            <div className="mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Experience and Expertise
             </h3>
@@ -41,7 +41,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
             <img src="https://assets.weforum.org/article/image/responsive_big_webp_N4cGD-jj1a0Roc2mkEmB98kvscByGRf5kKEN8n-f-PE.webp" alt="" 
              className='h-52 w-[460px] rounded-t-[0.75rem]'/>
           </div>
-          <div className="flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
@@ -50,7 +50,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
         </text>
       </svg>
 
-            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
+            <div className="mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Efficient Customer Service
             </h3>
@@ -65,7 +65,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
           <img src="https://media.istockphoto.com/id/1345504557/photo/caucasian-hands-counting-dollar-banknotes.webp?b=1&s=170667a&w=0&k=20&c=MJOtDIYq_5yNnQhE479ymwPSi1Fk160vhWuGyHKpwYg=" alt=""
            className='h-52 w-[460px] rounded-t-[0.75rem]' />
           </div>
-          <div className="flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
@@ -74,7 +74,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
         </text>
       </svg>
 
-            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
+            <div className="mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Transparent Pricing
             </h3>
@@ -89,7 +89,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
            <img src="https://media.istockphoto.com/id/1475261805/photo/office-desk-with-hands-of-for-people-working-together-on-a-joint-business-project-with.webp?b=1&s=170667a&w=0&k=20&c=uittTxMSPwM7zgJlKxyPGwFHsckM_CodS2G0EarCv24=" alt="" 
             className='h-52 w-[460px] rounded-t-[0.75rem]'/>
           </div>
-          <div className="flex p-4 md:p-6">
+          <div className="bg-white flex p-4 md:p-6">
           <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
         <circle cx="40" cy="40" r="30" fill="#FF7D05" />
         <circle cx="40" cy="40" r="40" fill="#FF7D05" fillOpacity="0.55" />
@@ -97,7 +97,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
           4
         </text>
       </svg>
-            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
+            <div className="mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Innovation and Technology
             </h3>
