@@ -36,7 +36,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
           </div>
         </div>
 
-              <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl dark:bg-slate-900 dark:border-gray-700 dark:shadow-slate-700/[.7] lg:ml-12">
+              <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl">
           <div className="h-52 flex flex-col justify-center items-center bg-blue-600 rounded-t-xl">
             <img src="https://assets.weforum.org/article/image/responsive_big_webp_N4cGD-jj1a0Roc2mkEmB98kvscByGRf5kKEN8n-f-PE.webp" alt="" 
              className='h-52 w-[460px] rounded-t-[0.75rem]'/>
