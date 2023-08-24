@@ -26,7 +26,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
         </text>
       </svg>
 
-            <div className="mt-3 text-gray-500 ml-8 mr-4">
+            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Experience and Expertise
             </h3>
@@ -50,7 +50,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
         </text>
       </svg>
 
-            <div className="mt-3 text-gray-500 ml-8 mr-4">
+            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Efficient Customer Service
             </h3>
@@ -74,7 +74,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
         </text>
       </svg>
 
-            <div className="mt-3 text-gray-500 ml-8 mr-4">
+            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Transparent Pricing
             </h3>
@@ -97,7 +97,7 @@ className='text-center lg:h-[68px] lg:w-[70px] h-[48px] w-[40px]' />
           4
         </text>
       </svg>
-            <div className="mt-3 text-gray-500 ml-8 mr-4">
+            <div className="bg-white mt-3 text-gray-500 ml-8 mr-4">
             <h3 className="text-xl font-semibold text-gray-800">
             Innovation and Technology
             </h3>

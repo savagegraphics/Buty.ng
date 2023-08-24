@@ -11,7 +11,7 @@ const Navbar = () => {
     };
 
     return (
-        <section className="bg-[#303F9F] dark:bg-gray-900">
+        <section className="">
             <nav className="container p-6 mx-auto lg:flex lg:justify-between lg:items-center">
                 <div className="flex items-center justify-between">
                     <Link href="#">
