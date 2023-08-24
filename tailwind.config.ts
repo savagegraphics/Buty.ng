@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      gradientStops: {
+        '20': '20%',
+        '80': '80%',
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
@@ -30,6 +34,8 @@ const config: Config = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('tailwindcss-gradients'),
+  ],
 };
 export default config;
